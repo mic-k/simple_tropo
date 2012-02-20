@@ -1,9 +1,16 @@
-{
-   "tropo":[
-      {
-         "say":{
-            "value":"Guess what? http://rbb.ic.llnwd.net/stream/rbb_radioeins_mp3_m_a.mp3"
-         }
-      }
-   ]
+{"tropo":[
+     {
+        "call":{
+              "to":"+4930805799686"
+            }
+     },
+     {
+        "say":[
+           {
+              "value":"Hallo Antje, was machst du gerade? Bist du auch schön fleißig? ",
+              "voice":"stefan"
+           }
+        ]
+     }
+  ]
 }
