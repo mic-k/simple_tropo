@@ -1,14 +1,14 @@
 {"tropo":[
      {
         "call":{
-              "to":"+491798877820",
+              "to":"+491729219258",
               "network":"SMS"
             }
      },
      {
         "say":[
            {
-              "value":"Hallo Antje, was machst du gerade? Bist du auch schön fleißig? ",
+              "value":"Tropo says: Lass den micha in ruhe, sonst gibt's aerger!!! ;)",
               "voice":"stefan"
            }
         ]
