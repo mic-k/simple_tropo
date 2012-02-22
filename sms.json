@@ -1,15 +1,14 @@
 {"tropo":[
      {
         "call":{
-              "to":"+491729219258",
-              "network":"SMS"
+              "to":"micha_test@tropo.im",
+              "network":"JABBER"
             }
      },
      {
         "say":[
            {
-              "value":"Tropo says: Lass den micha in ruhe, sonst gibt's aerger!!! ;)",
-              "voice":"stefan"
+              "value":"Tropo says: Lass den micha in ruhe, sonst gibt's aerger!!! ;)"
            }
         ]
      }
