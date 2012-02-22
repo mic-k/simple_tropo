@@ -1,14 +1,14 @@
 {"tropo":[
      {
         "call":{
-              "to":"+4930805799686"
+              "to":"+491798877820",
+              "network":"SMS"
             }
      },
      {
         "say":[
            {
-              "value":"Hallo Antje, was machst du gerade? Bist du auch schön fleißig? ",
-              "voice":"stefan"
+              "value":"Hallo Antje, was machst du gerade? Bist du auch schön fleißig? "
            }
         ]
      }
