@@ -3,13 +3,13 @@
         "call":{
               "to":"+491798877820",
               "network":"SMS",
-              "from":"+16479314655"
+              "from":"+16612062534"
             }
      },
      {
         "say":[
            {
-              "value":"Hallo Antje, was machst du gerade? Bist du auch schön fleißig? "
+              "value":"Hallo ! "
            }
         ]
      }
